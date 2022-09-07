@@ -35,13 +35,14 @@
       "owner":"NerFF#6907"
    },
    {
-      "ip":"217.195.207.96",
-      "hash":"ab247e7ddc82be968e17099fea66edc3",
-      "owner":"ercnalacm#3649"
-   },
-   {
       "ip":"179.61.237.240",
       "hash":"ab247e7ddc82be968e17099fea66edc3",
       "owner":"vur#7594"
+   },
+   {
+      "ip":"217.195.207.96",
+      "hash":"ab247e7ddc82be968e17099fea66edc3",
+      "owner":"ercnalacm#3649"
    }
+
 ]
